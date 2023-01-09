@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "size": "A5",
+            "image":"https://i.postimg.cc/3R0bcMHL/Star-Ocean.jpg",
+            "Title": "Star Ocean",
+            "Medium": "Oil Painting",
+            "price": 120
+        },
+        {
+            "size": "A3",
+            "image":"https://i.postimg.cc/pdSFqrxF/Folklore.jpg",
+            "Title": "Folklore",
+            "Medium": "Pen & Pencil",
+            "price": 50
+        },
+        {
+            "size": "A4",
+            "image":"https://i.postimg.cc/Hn9jDkG3/Clouded-Dance.jpg",
+            "Title": "Clouded Dance",
+            "Medium": "Watercolor",
+            "price": 150
+        },
+        {
+            "size": "A5",
+            "image":"https://i.postimg.cc/02N92f79/Mind-Fog.jpg",
+            "Title":"Mind-Fog",
+            "Medium": "Acrylic",
+            "price": 100
+        },
+        {
+            "size": "A5",
+            "image":"https://i.postimg.cc/brwfryDm/Baptism.jpg",
+            "Title": "Baptism",
+            "Medium": "Acrylic",
+            "price": 130
+        }
+    ]
+}
